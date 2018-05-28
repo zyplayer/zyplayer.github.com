@@ -1,1 +1,1 @@
-# zyplayer.github.com
+# zyplayer.github.io
